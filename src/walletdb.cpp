@@ -8,6 +8,8 @@
 #include <boost/version.hpp>
 #include <boost/filesystem.hpp>
 #include <boost/algorithm/string.hpp>
+#include <iostream>
+#include <fstream>
 
 using namespace std;
 using namespace boost;
